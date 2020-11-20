@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_total_price" type="id" />
+    <item name="gp_content" type="id" />
+    <item name="ll_cart" type="id" />
+    <item name="gp_empty" type="id" />
+    <item name="btn_shopping_channel" type="id" />
+    <item name="btn_settle" type="id" />
+    <item name="lv_cart" type="id" />
+    <item name="cl_brd_temp" type="id" />
+</resources>
